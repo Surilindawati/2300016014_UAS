@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/2300016014_UAS/static/css/main.507f813e.css",
+    "main.js": "/2300016014_UAS/static/js/main.559cf43f.js",
+    "static/js/488.b6f95c75.chunk.js": "/2300016014_UAS/static/js/488.b6f95c75.chunk.js",
+    "static/media/Wedding.jpg": "/2300016014_UAS/static/media/Wedding.e5c9adb244d6b42955d6.jpg",
+    "index.html": "/2300016014_UAS/index.html",
+    "main.507f813e.css.map": "/2300016014_UAS/static/css/main.507f813e.css.map",
+    "main.559cf43f.js.map": "/2300016014_UAS/static/js/main.559cf43f.js.map",
+    "488.b6f95c75.chunk.js.map": "/2300016014_UAS/static/js/488.b6f95c75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507f813e.css",
+    "static/js/main.559cf43f.js"
+  ]
+}
